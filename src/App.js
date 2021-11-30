@@ -28,6 +28,9 @@ export default function App() {
         <div>
           <Button variant="text">Hello World3</Button>
         </div>
+        <div>
+          <Button variant="text">Hello World3</Button>
+        </div>
       </Div>
     </div>
   );
